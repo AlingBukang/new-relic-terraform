@@ -1,3 +1,4 @@
+References:
 https://registry.terraform.io/providers/newrelic/newrelic/latest/docs
 https://developer.newrelic.com/automate-workflows/get-started-terraform/
 https://github.com/newrelic/terraform-provider-newrelic
@@ -5,6 +6,7 @@ https://github.com/newrelic/terraform-provider-newrelic
 
 
 Before you begin
+
 To use this guide, you should have some basic knowledge of both New Relic and Terraform. If you haven't deployed a New Relic open source agent yet, install New Relic for your application. Also, install the Terraform CLI.
 
 # Install New Relic
